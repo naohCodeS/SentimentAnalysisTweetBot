@@ -13,5 +13,3 @@ detailを書いた場合、分析の内訳をツイート
 実行方法  
 myStreamListener = SentimentAnalysisTweetBot(consumerKey, consumerSecret, accessToken, accessTokenSecret)  
 myStreamListener.filter(track=[account])  
-
-@HeiwaSaverが動いてます
